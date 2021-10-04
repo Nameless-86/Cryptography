@@ -1,2 +1,2 @@
 # Cryptography
-Some python projects about encryption and cryptography subjects
+Some python and jsprojects about encryption and cryptography subjects
